@@ -1,0 +1,4 @@
+﻿  SnakesLadders.cpp
+C:\Users\demia\source\repos\SnakesLadders\SnakesLadders\SnakesLadders.cpp(38,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\demia\source\repos\SnakesLadders\SnakesLadders\SnakesLadders.cpp(58,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SnakesLadders.vcxproj -> C:\Users\demia\source\repos\SnakesLadders\x64\Debug\SnakesLadders.exe
